@@ -19,5 +19,5 @@
 ---
 <p align="center">
   <b>João Gabriel S. do Nascimento</b><br>
-  <a href="https://linkedin.com/in/joaodatalytics" target="_blank">LinkedIn</a> • Recife, PE
+  <a href="www.linkedin.com/in/joaognscmnt-dados" target="_blank">LinkedIn</a> • Recife, PE
 </p>

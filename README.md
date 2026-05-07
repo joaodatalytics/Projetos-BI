@@ -19,5 +19,5 @@
 ---
 <p align="center">
   <b>João Gabriel S. do Nascimento</b><br>
-  <a href="[www.linkedin.com/in/joaognscmnt-dados](https://www.linkedin.com/in/joaognscmnt-dados/?skipRedirect=true)" target="_blank">LinkedIn</a> • Recife, PE
+  <a href="https://www.linkedin.com/in/joaognscmnt-dados/" target="_blank">LinkedIn</a> • Recife, PE
 </p>
